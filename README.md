@@ -1,4 +1,4 @@
-# HabitOS2.0 — Build Streaks & Earn XP
+# HabitOS2.0 — Build Streaks & Earn XP.
 
 A gamified habit and task tracker built with React + Vite. Track daily habits, manage tasks, earn XP, level up, unlock badges, and stay motivated with streaks, a heatmap, and a Pomodoro timer — all running fully client-side with no backend required.
 
